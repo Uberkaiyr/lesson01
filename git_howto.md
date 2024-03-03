@@ -30,7 +30,7 @@ git log --oneline
 ```
 переключения веток 
 ```sh
-git checkout 
+git checkout <имя ветки>
 ```
 менеджер веток 
 ```sh
@@ -65,3 +65,4 @@ git blame
 ```sh
 git log -p
 ```
+
