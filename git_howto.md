@@ -67,5 +67,9 @@ git blame
 ```sh
 git log -p
 ```
+создания новой ветки 
+```sh
+git branch <имя ветки> 
+```
 
 
