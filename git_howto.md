@@ -61,7 +61,6 @@ git describe
 ```sh
 git blame
 ```
-<<<<<<< HEAD
 
 подробное изучении изминени
 ```sh
