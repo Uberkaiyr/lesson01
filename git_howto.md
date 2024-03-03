@@ -61,3 +61,7 @@ git describe
 ```sh
 git blame
 ```
+подробное изучении изминени
+```sh
+git log -p
+```
