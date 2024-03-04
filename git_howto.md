@@ -87,3 +87,7 @@ git diff <имя файла>
 ```sh
 git revert 
 ```
+просмотр коммитов в графике
+```sh
+git log --graph --oneline --decorate
+```
