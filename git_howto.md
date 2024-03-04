@@ -91,3 +91,11 @@ git revert
 ```sh
 git merge --abort
 ```
+просмотр коммитов в графике
+```sh
+git log --graph --oneline --decorate
+```
+просмотр удаленных URL-адресов
+```sh
+git remont -v
+```
