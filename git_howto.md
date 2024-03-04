@@ -83,3 +83,7 @@ git diff --staged
 ```sh
 git diff <имя файла>
 ```
+откат последнего коммита
+```sh
+git revert 
+```
