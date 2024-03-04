@@ -91,3 +91,7 @@ git revert
 ```sh
 git log --graph --oneline --decorate
 ```
+просмотр удаленных URL-адресов
+```sh
+git remont -v
+```
