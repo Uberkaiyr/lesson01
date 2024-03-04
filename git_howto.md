@@ -87,3 +87,7 @@ git diff <имя файла>
 ```sh
 git revert 
 ```
+преривания слияния конфликта 
+```sh
+git merge --abort
+```
